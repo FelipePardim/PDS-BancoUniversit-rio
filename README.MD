@@ -10,7 +10,8 @@
     <img src="https://img.shields.io/github/issues/FelipePardim/PDS-BancoUniversit-rio" />
     <img src="https://img.shields.io/github/license/FelipePardim/PDS-BancoUniversit-rio" />
     <br>
-    <img src="https://img.shields.io/badge/React-blue?logo=react" />
+    <img src="https://img.shields.io/badge/React%20Native-blue?logo=react" />
+    <img src="https://img.shields.io/badge/Expo-grey?logo=expo" />
 </p>
 
 ---
@@ -21,8 +22,6 @@
 - [Requisitos](#Requisitos).
 - [Instalação](#Instalação).
 - [Como usar](#como-usar).
-    - [Iniciando o servidor backend](#iniciando-backend).
-    - [Iniciando o front-end](#iniciando-web).
     - [Iniciando o app ](#iniciando-mobile).
 - [Tecnologias utilizadas](#tecnologias).
 - [Licença](#licenca).
@@ -57,7 +56,7 @@ Esses foram os editores utilizados.
 >>  # Clone o repositório
 >>  $ git clone https://github.com/FelipePardim/PDS-BancoUniversit-rio
 >>   ```
-> ### Siga cada um dos guias abaixo para utilizar o projeto da maneira que quiser.
+> ### Siga cada um dos passos abaixo para utilizar o projeto.
 
 ---
 
@@ -69,7 +68,7 @@ Esses foram os editores utilizados.
 >
 >>```bash
 >># Acesse a pasta mobile
->>$ cd PDS-BancoUniversitario
+>>$ cd PDS-BancoUniversit-rio
 >>
 >># Instale as dependências.
 >>$ yarn install
